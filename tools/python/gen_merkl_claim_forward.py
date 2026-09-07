@@ -14,7 +14,7 @@ Example (Plasma Omni -> bizdev for WXPL):
     --safe 0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e \\
     --token 0x6100E367285b01F48D07953803A2d8dCA5D19873 \\
     --to 0xF3B4829C8B9E2910C2396538F49a12b0c2475a7e \\
-    --out MaxiOps/merkl/payloads/plasma-wxpl-claim-forward-to-bizdev.json
+    --out OmniAutoOps/merkl-claim-forward-wxpl-9745-to-bizdev.json
 """
 
 from __future__ import annotations
