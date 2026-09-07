@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2026-W36/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `62b3bda2c167001e08c023d63100bd5ee521805c`
+COMMIT: `057f1d92cb92613ed62a4a986eec9a1cad7a99c8`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/9404f072-f150-4b51-8bb8-3f9e5b9f999d)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/3fb4d2c4-9c39-4900-96b6-d7584180daa9)
 
 ```
 +----------+------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------+---------+----------+
@@ -14,9 +14,9 @@ TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/9404f072-f150-4
 ```
 FILENAME: `BIPs/00batched/2026-W36/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `62b3bda2c167001e08c023d63100bd5ee521805c`
+COMMIT: `057f1d92cb92613ed62a4a986eec9a1cad7a99c8`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/9404f072-f150-4b51-8bb8-3f9e5b9f999d)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/3fb4d2c4-9c39-4900-96b6-d7584180daa9)
 
 ```
 +-----------------------+-------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
@@ -66,9 +66,9 @@ TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/9404f072-f150-4
 ```
 FILENAME: `BIPs/00batched/2026-W36/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `62b3bda2c167001e08c023d63100bd5ee521805c`
+COMMIT: `057f1d92cb92613ed62a4a986eec9a1cad7a99c8`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/9404f072-f150-4b51-8bb8-3f9e5b9f999d)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/3fb4d2c4-9c39-4900-96b6-d7584180daa9)
 
 ```
 +-------------------+--------------------------------------------------------------------------------------------------------+-------+------------------------------------------------------------------------------------------------------------------+------------+----------+

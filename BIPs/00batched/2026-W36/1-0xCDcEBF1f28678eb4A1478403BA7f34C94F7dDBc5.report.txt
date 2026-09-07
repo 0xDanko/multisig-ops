@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2026-W36/1-0xCDcEBF1f28678eb4A1478403BA7f34C94F7dDBc5.json`
 MULTISIG: `multisigs/blabs_team (mainnet:0xCDcEBF1f28678eb4A1478403BA7f34C94F7dDBc5)`
-COMMIT: `62b3bda2c167001e08c023d63100bd5ee521805c`
+COMMIT: `057f1d92cb92613ed62a4a986eec9a1cad7a99c8`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/1dbfbb52-b1d4-4477-9116-840611faea70)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/a55c458c-19a1-4ed1-907b-5bcd7cbf03a4)
 
 ```
 +----------+------------------------------------------------+----------------------------------------------------------------------+---------------------------------------------------+---------+----------+
@@ -13,9 +13,9 @@ TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/1dbfbb52-b1d4-4
 ```
 FILENAME: `BIPs/00batched/2026-W36/1-0xCDcEBF1f28678eb4A1478403BA7f34C94F7dDBc5.json`
 MULTISIG: `multisigs/blabs_team (mainnet:0xCDcEBF1f28678eb4A1478403BA7f34C94F7dDBc5)`
-COMMIT: `62b3bda2c167001e08c023d63100bd5ee521805c`
+COMMIT: `057f1d92cb92613ed62a4a986eec9a1cad7a99c8`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/1dbfbb52-b1d4-4477-9116-840611faea70)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/a55c458c-19a1-4ed1-907b-5bcd7cbf03a4)
 
 ```
 +-----------------+-------------------------------------------------------------------------------+-------+--------------------------------------------------------------------------+------------+----------+
