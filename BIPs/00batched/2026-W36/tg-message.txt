@@ -1,0 +1,15 @@
+gm, welcome back from summer :)
+
+not much governance happened, but still a couple of bips that need execution:
+
+# Ethereum: `multisigs/dao`
+## Nonce 282: https://app.safe.global/transactions/tx?safe=eth:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f&id=multisig_0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f_0xd8099f86442308ecd81e6cc9808fd5b942e070fd0c08db6328e1062411244db0
+
+- BIP-850: claim vested COW from the airdrop/vesting contracts, unlock locked BAL, and transfer proceeds to the treasury
+- BIP-918: grant/use/revoke the `disable()` permission to shut down the three deprecated v3 LBP pool factories
+- BIP-925: unwind the Timeless ve8020 BAL grant (deactivate, release, redeem, withdraw) and send the recovered BAL to the treasury
+- BIP-927: revoke unused V2 Vault permissions (swap/batchSwap/join/exit/manageUserBalance/setRelayerApproval) from deprecated relayers
+
+there is a detailed technical report available here: https://github.com/balancer/multisig-ops/blob/b049c7a8f14393e406814305765ea3c032872c25/BIPs/00batched/2026-W36/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.report.txt
+
+@hubirb @alextnetto @elbagococina @garaigram @0xMaki @mouph @eboado @StefanGeorge @bonustrack @mikeisballin
